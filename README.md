@@ -25,11 +25,13 @@
 * **Problem:** Capturing time-sensitive match data at critical intervals (up to 15 seconds before start). 
 * **Solution:** Built a 24/7 automation script that triggers ETL pipelines based on real-time match intervals.
 * **Impact:** Delivered extracted data via AWS Lambda with 99.9% uptime, reducing system overload.
+* I created Repo of this project but it is private due to some policies.
 
 #### 📊 Amazon Sentiment & Performance Tracker
 * **Tech:** Python, Scrapy, Data Analytics.
 * **Scope:** Monitoring 60,000+ SKUs to track longitudinal shifts in ratings and reviews.
 * **Impact:** Provided competitive intelligence by correlating review spikes with product updates.
+* I created Repo of this project but it is private due to some policies.
 ---
 
 ### 📫 Connect with me:
